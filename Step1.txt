@@ -1,1 +1,10 @@
-Step 2-
+git init
+git add *(It create the stagging just like Index)/ git add <file name>
+git status (Check the status)
+git commit -m "Message should be given each and every time what exaclty modified"
+git remote add origin give the URL
+git push origin master/main
+
+
+
+
