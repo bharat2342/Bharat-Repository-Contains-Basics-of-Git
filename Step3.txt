@@ -1,0 +1,9 @@
+This the example of branch type in which we created
+develop branch
+
+git checkout -b develop
+git branch(to check which branch we are in?
+
+Then add the project 
+git add *
+git status
